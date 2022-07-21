@@ -222,7 +222,7 @@ class _DialScreenState extends State<DialScreen> with WidgetsBindingObserver {
                       labelText: 'Client Identifier or Phone Number'),
                 ),
                 const SizedBox(
-                  height: 10,
+                  height: 15,
                 ),
                 ElevatedButton(
                   child: const Text("Make Call"),
