@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399900591544",
+    "project_id": "flutter-voip-twilio",
+    "storage_bucket": "flutter-voip-twilio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399900591544:android:500014726918a1876d3b4d",
+        "android_client_info": {
+          "package_name": "com.example.twilio_voip_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399900591544-bff9nc8r4cc9tbn1fgrjhu71noe67ksj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAod_N2Q1M7WpFPmMvuJ9aaygymm6baTgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399900591544-bff9nc8r4cc9tbn1fgrjhu71noe67ksj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
